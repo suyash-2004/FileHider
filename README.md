@@ -16,3 +16,6 @@ FileHider is a Java-based application that provides secure file hiding functiona
 - **MySQL**
 - **JavaMail API**
 - **Maven**
+
+## IDE Used
+-** IntelliJ IDEA
